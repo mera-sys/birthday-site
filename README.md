@@ -1,2 +1,3 @@
-git branch -M main
-git push -u origin main
+git add .
+git commit -m "update"
+git push
